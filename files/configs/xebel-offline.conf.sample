@@ -1,0 +1,44 @@
+[DEFAULT]
+dataset_name = geant
+# a text file in each line is only a number, sorted ascending.
+nodes_file = ../topo/nodes
+# a text file each line is as <from_node> <to_node> <capacity> <weight>. Example: 3, 6, 876543210000, 1
+links_file = ../topo/links
+# first_node_id is 1 if nodes_file starts with 1. it is such in all toplogies from ryu
+first_node_id = 1
+[offline]
+# allowed common edge percentage. 1st parameter from path selection
+acep = 0.8
+# allowed path stretch. 2nd parameter from path selection
+aps = 3
+# not used yet
+overload = 0
+# floder in witch results of offline stage will be saved
+offline_data_dir = ./data/
+# address of pickle file of list of selected paths in stage 1
+stage1_output_file = ./data/offline/stage1/paths_list.pkl
+# Do not change
+stage1_output_as_json = false
+# number of threads to start for path calculation
+stage_1_workers = 10
+# save calculated paths after each <stage_1_saveat> new paths created
+stage_1_saveat = 500
+# print summary of created paths in stage1 
+stage1_print_result = Yes
+# log of stage 2 (dag creation) saved in <stage2_logfile>
+stage2_logfile = ./log/offline/stage2.log
+# save stage 2 result (dag) as a text file for more investigation
+stage2_save_dag_as_txt = yes
+# adress of text file of stage 2 dag
+stage2_dagfile_text = ./data/offline/dag.txt
+# adress of main file of stage 2 dag (pickle file)
+stage2_dagfile_pkl = ./data/offline/dag.pkl
+# The dag creation method using in stage2:
+#    Format: <make_function>/<option1>:<value1>-<option2>:<value2>-...
+#    Examples: 
+#                make_00
+#                make_buttom_up/acception_method:AM1_disjoint_OR_no_common_child
+#                make_post_joiner/base_make:make_00
+#                make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child
+#make_method = make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child
+make_method = make_post_joiner/base_make:make_00

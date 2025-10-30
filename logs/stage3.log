@@ -1,0 +1,246 @@
+April 12 01:30:47 | xoff-3:
+ ### params:0.7-3.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-3.0/dag.pkl, #edges:74, #paths:10221, #mid_onlys:2958, dag_process_time:0.2, 
+ params: 0.7-3.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-3.0/ways.txt, #nodes:13253, write_ways_time:0.06, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-3.0/equations.txt, #equations:13179, #workers:4, write_equations_time:0.03, 
+April 12 01:31:55 | xoff-3:
+ ### params:0.7-3.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-3.5/dag.pkl, #edges:74, #paths:15812, #mid_onlys:4396, dag_process_time:0.42, 
+ params: 0.7-3.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-3.5/ways.txt, #nodes:20282, write_ways_time:0.09, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-3.5/equations.txt, #equations:20208, #workers:4, write_equations_time:0.04, 
+April 12 01:33:52 | xoff-3:
+ ### params:0.7-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-4.0/dag.pkl, #edges:74, #paths:23130, #mid_onlys:6003, dag_process_time:0.61, 
+ params: 0.7-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-4.0/ways.txt, #nodes:29207, write_ways_time:0.13, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-4.0/equations.txt, #equations:29133, #workers:4, write_equations_time:0.06, 
+April 12 01:36:22 | xoff-3:
+ ### params:0.7-4.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-4.5/dag.pkl, #edges:74, #paths:27431, #mid_onlys:6838, dag_process_time:0.78, 
+ params: 0.7-4.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-4.5/ways.txt, #nodes:34343, write_ways_time:0.17, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-4.5/equations.txt, #equations:34269, #workers:4, write_equations_time:0.08, 
+April 12 01:39:43 | xoff-3:
+ ### params:0.7-5.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-5.0/dag.pkl, #edges:74, #paths:33685, #mid_onlys:7872, dag_process_time:0.92, 
+ params: 0.7-5.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-5.0/ways.txt, #nodes:41631, write_ways_time:0.19, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-5.0/equations.txt, #equations:41557, #workers:4, write_equations_time:0.09, 
+April 12 01:43:52 | xoff-3:
+ ### params:0.7-6.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-6.0/dag.pkl, #edges:74, #paths:39885, #mid_onlys:8749, dag_process_time:1.23, 
+ params: 0.7-6.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-6.0/ways.txt, #nodes:48708, write_ways_time:0.28, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-6.0/equations.txt, #equations:48634, #workers:4, write_equations_time:0.12, 
+April 12 01:49:31 | xoff-3:
+ ### params:0.7-8.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-8.0/dag.pkl, #edges:74, #paths:47228, #mid_onlys:9819, dag_process_time:1.39, 
+ params: 0.7-8.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-8.0/ways.txt, #nodes:57121, write_ways_time:0.27, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-8.0/equations.txt, #equations:57047, #workers:4, write_equations_time:0.13, 
+April 12 01:55:18 | xoff-3:
+ ### params:0.7-10.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-10.0/dag.pkl, #edges:74, #paths:49288, #mid_onlys:9976, dag_process_time:1.46, 
+ params: 0.7-10.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-10.0/ways.txt, #nodes:59338, write_ways_time:0.3, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-10.0/equations.txt, #equations:59264, #workers:4, write_equations_time:0.14, 
+April 12 02:01:03 | xoff-3:
+ ### params:0.7-15.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-15.0/dag.pkl, #edges:74, #paths:52022, #mid_onlys:10007, dag_process_time:1.84, 
+ params: 0.7-15.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-15.0/ways.txt, #nodes:62103, write_ways_time:0.28, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-15.0/equations.txt, #equations:62029, #workers:4, write_equations_time:0.13, 
+April 12 02:06:59 | xoff-3:
+ ### params:0.7-23.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-23.0/dag.pkl, #edges:74, #paths:52915, #mid_onlys:10083, dag_process_time:1.86, 
+ params: 0.7-23.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-23.0/ways.txt, #nodes:63072, write_ways_time:0.32, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.7-23.0/equations.txt, #equations:62998, #workers:4, write_equations_time:0.14, 
+April 12 02:07:50 | xoff-3:
+ ### params:0.75-3.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-3.0/dag.pkl, #edges:74, #paths:14941, #mid_onlys:3400, dag_process_time:0.36, 
+ params: 0.75-3.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-3.0/ways.txt, #nodes:18415, write_ways_time:0.08, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-3.0/equations.txt, #equations:18341, #workers:4, write_equations_time:0.04, 
+April 12 02:09:17 | xoff-3:
+ ### params:0.75-3.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-3.5/dag.pkl, #edges:74, #paths:23292, #mid_onlys:4945, dag_process_time:0.56, 
+ params: 0.75-3.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-3.5/ways.txt, #nodes:28311, write_ways_time:0.14, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-3.5/equations.txt, #equations:28237, #workers:4, write_equations_time:0.06, 
+April 12 02:11:40 | xoff-3:
+ ### params:0.75-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-4.0/dag.pkl, #edges:74, #paths:34043, #mid_onlys:6407, dag_process_time:0.91, 
+ params: 0.75-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-4.0/ways.txt, #nodes:40524, write_ways_time:0.19, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-4.0/equations.txt, #equations:40450, #workers:4, write_equations_time:0.09, 
+April 12 02:14:44 | xoff-3:
+ ### params:0.75-4.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-4.5/dag.pkl, #edges:74, #paths:40241, #mid_onlys:7166, dag_process_time:1.09, 
+ params: 0.75-4.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-4.5/ways.txt, #nodes:47481, write_ways_time:0.23, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-4.5/equations.txt, #equations:47407, #workers:4, write_equations_time:0.11, 
+April 12 02:18:34 | xoff-3:
+ ### params:0.75-5.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-5.0/dag.pkl, #edges:74, #paths:49281, #mid_onlys:8157, dag_process_time:1.31, 
+ params: 0.75-5.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-5.0/ways.txt, #nodes:57512, write_ways_time:0.28, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-5.0/equations.txt, #equations:57438, #workers:4, write_equations_time:0.13, 
+April 12 02:23:20 | xoff-3:
+ ### params:0.75-6.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-6.0/dag.pkl, #edges:74, #paths:58420, #mid_onlys:9123, dag_process_time:1.95, 
+ params: 0.75-6.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-6.0/ways.txt, #nodes:67617, write_ways_time:0.33, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-6.0/equations.txt, #equations:67543, #workers:4, write_equations_time:0.16, 
+April 12 02:29:17 | xoff-3:
+ ### params:0.75-8.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-8.0/dag.pkl, #edges:74, #paths:69305, #mid_onlys:9754, dag_process_time:2.44, 
+ params: 0.75-8.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-8.0/ways.txt, #nodes:79133, write_ways_time:0.4, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-8.0/equations.txt, #equations:79059, #workers:4, write_equations_time:0.19, 
+April 12 02:35:04 | xoff-3:
+ ### params:0.75-10.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-10.0/dag.pkl, #edges:74, #paths:72340, #mid_onlys:9655, dag_process_time:2.41, 
+ params: 0.75-10.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-10.0/ways.txt, #nodes:82069, write_ways_time:0.43, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-10.0/equations.txt, #equations:81995, #workers:4, write_equations_time:0.21, 
+April 12 02:41:03 | xoff-3:
+ ### params:0.75-15.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-15.0/dag.pkl, #edges:74, #paths:76298, #mid_onlys:9659, dag_process_time:2.69, 
+ params: 0.75-15.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-15.0/ways.txt, #nodes:86031, write_ways_time:0.61, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-15.0/equations.txt, #equations:85957, #workers:4, write_equations_time:0.31, 
+April 12 02:47:10 | xoff-3:
+ ### params:0.75-23.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-23.0/dag.pkl, #edges:74, #paths:77576, #mid_onlys:9624, dag_process_time:2.57, 
+ params: 0.75-23.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-23.0/ways.txt, #nodes:87274, write_ways_time:0.43, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.75-23.0/equations.txt, #equations:87200, #workers:4, write_equations_time:0.21, 
+April 12 02:48:15 | xoff-3:
+ ### params:0.8-3.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-3.0/dag.pkl, #edges:74, #paths:21238, #mid_onlys:3512, dag_process_time:0.49, 
+ params: 0.8-3.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-3.0/ways.txt, #nodes:24824, write_ways_time:0.11, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-3.0/equations.txt, #equations:24750, #workers:4, write_equations_time:0.05, 
+April 12 02:50:07 | xoff-3:
+ ### params:0.8-3.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-3.5/dag.pkl, #edges:74, #paths:33086, #mid_onlys:4998, dag_process_time:0.77, 
+ params: 0.8-3.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-3.5/ways.txt, #nodes:38158, write_ways_time:0.17, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-3.5/equations.txt, #equations:38084, #workers:4, write_equations_time:0.08, 
+April 12 02:52:55 | xoff-3:
+ ### params:0.8-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-4.0/dag.pkl, #edges:74, #paths:48979, #mid_onlys:6278, dag_process_time:1.52, 
+ params: 0.8-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-4.0/ways.txt, #nodes:55331, write_ways_time:0.26, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-4.0/equations.txt, #equations:55257, #workers:4, write_equations_time:0.13, 
+April 12 02:56:15 | xoff-3:
+ ### params:0.8-4.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-4.5/dag.pkl, #edges:74, #paths:58116, #mid_onlys:6760, dag_process_time:1.84, 
+ params: 0.8-4.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-4.5/ways.txt, #nodes:64950, write_ways_time:0.33, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-4.5/equations.txt, #equations:64876, #workers:4, write_equations_time:0.18, 
+April 12 03:00:06 | xoff-3:
+ ### params:0.8-5.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-5.0/dag.pkl, #edges:74, #paths:71151, #mid_onlys:7487, dag_process_time:2.29, 
+ params: 0.8-5.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-5.0/ways.txt, #nodes:78712, write_ways_time:0.39, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-5.0/equations.txt, #equations:78638, #workers:4, write_equations_time:0.18, 
+April 12 03:05:03 | xoff-3:
+ ### params:0.8-6.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-6.0/dag.pkl, #edges:74, #paths:84686, #mid_onlys:7993, dag_process_time:2.71, 
+ params: 0.8-6.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-6.0/ways.txt, #nodes:92753, write_ways_time:0.46, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-6.0/equations.txt, #equations:92679, #workers:4, write_equations_time:0.21, 
+April 12 03:10:25 | xoff-3:
+ ### params:0.8-8.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-8.0/dag.pkl, #edges:74, #paths:100326, #mid_onlys:8361, dag_process_time:3.16, 
+ params: 0.8-8.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-8.0/ways.txt, #nodes:108761, write_ways_time:0.54, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-8.0/equations.txt, #equations:108687, #workers:4, write_equations_time:0.25, 
+April 12 03:15:50 | xoff-3:
+ ### params:0.8-10.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-10.0/dag.pkl, #edges:74, #paths:104762, #mid_onlys:8335, dag_process_time:3.37, 
+ params: 0.8-10.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-10.0/ways.txt, #nodes:113171, write_ways_time:0.56, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-10.0/equations.txt, #equations:113097, #workers:4, write_equations_time:0.27, 
+April 12 03:20:56 | xoff-3:
+ ### params:0.8-15.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-15.0/dag.pkl, #edges:74, #paths:110459, #mid_onlys:7892, dag_process_time:3.4, 
+ params: 0.8-15.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-15.0/ways.txt, #nodes:118425, write_ways_time:0.68, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-15.0/equations.txt, #equations:118351, #workers:4, write_equations_time:0.31, 
+April 12 03:26:05 | xoff-3:
+ ### params:0.8-23.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-23.0/dag.pkl, #edges:74, #paths:112331, #mid_onlys:7945, dag_process_time:3.45, 
+ params: 0.8-23.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-23.0/ways.txt, #nodes:120350, write_ways_time:0.73, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.8-23.0/equations.txt, #equations:120276, #workers:4, write_equations_time:0.34, 
+April 12 03:27:14 | xoff-3:
+ ### params:0.85-3.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-3.0/dag.pkl, #edges:74, #paths:28584, #mid_onlys:3221, dag_process_time:0.8, 
+ params: 0.85-3.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-3.0/ways.txt, #nodes:31879, write_ways_time:0.15, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-3.0/equations.txt, #equations:31805, #workers:4, write_equations_time:0.07, 
+April 12 03:29:04 | xoff-3:
+ ### params:0.85-3.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-3.5/dag.pkl, #edges:74, #paths:44917, #mid_onlys:4360, dag_process_time:1.28, 
+ params: 0.85-3.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-3.5/ways.txt, #nodes:49351, write_ways_time:0.25, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-3.5/equations.txt, #equations:49277, #workers:4, write_equations_time:0.11, 
+April 12 03:31:36 | xoff-3:
+ ### params:0.85-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, #edges:74, #paths:66493, #mid_onlys:5160, dag_process_time:1.96, 
+ params: 0.85-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/ways.txt, #nodes:71727, write_ways_time:0.34, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/equations.txt, #equations:71653, #workers:4, write_equations_time:0.16, 
+April 12 03:34:31 | xoff-3:
+ ### params:0.85-4.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.5/dag.pkl, #edges:74, #paths:79062, #mid_onlys:5496, dag_process_time:2.38, 
+ params: 0.85-4.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.5/ways.txt, #nodes:84632, write_ways_time:0.39, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.5/equations.txt, #equations:84558, #workers:4, write_equations_time:0.19, 
+April 12 03:38:00 | xoff-3:
+ ### params:0.85-5.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-5.0/dag.pkl, #edges:74, #paths:96485, #mid_onlys:5823, dag_process_time:2.81, 
+ params: 0.85-5.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-5.0/ways.txt, #nodes:102382, write_ways_time:0.46, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-5.0/equations.txt, #equations:102308, #workers:4, write_equations_time:0.23, 
+April 12 03:41:44 | xoff-3:
+ ### params:0.85-6.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-6.0/dag.pkl, #edges:74, #paths:114677, #mid_onlys:6048, dag_process_time:3.35, 
+ params: 0.85-6.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-6.0/ways.txt, #nodes:120799, write_ways_time:0.67, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-6.0/equations.txt, #equations:120725, #workers:4, write_equations_time:0.3, 
+April 12 03:45:43 | xoff-3:
+ ### params:0.85-8.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-8.0/dag.pkl, #edges:74, #paths:135677, #mid_onlys:5758, dag_process_time:4.31, 
+ params: 0.85-8.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-8.0/ways.txt, #nodes:141509, write_ways_time:0.67, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-8.0/equations.txt, #equations:141435, #workers:4, write_equations_time:0.32, 
+April 12 03:49:46 | xoff-3:
+ ### params:0.85-10.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-10.0/dag.pkl, #edges:74, #paths:141694, #mid_onlys:5711, dag_process_time:4.38, 
+ params: 0.85-10.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-10.0/ways.txt, #nodes:147479, write_ways_time:0.82, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-10.0/equations.txt, #equations:147405, #workers:4, write_equations_time:0.41, 
+April 12 03:53:39 | xoff-3:
+ ### params:0.85-15.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-15.0/dag.pkl, #edges:74, #paths:149179, #mid_onlys:5422, dag_process_time:4.3, 
+ params: 0.85-15.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-15.0/ways.txt, #nodes:154675, write_ways_time:0.87, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-15.0/equations.txt, #equations:154601, #workers:4, write_equations_time:0.44, 
+April 12 03:57:35 | xoff-3:
+ ### params:0.85-23.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-23.0/dag.pkl, #edges:74, #paths:151636, #mid_onlys:5483, dag_process_time:4.44, 
+ params: 0.85-23.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-23.0/ways.txt, #nodes:157193, write_ways_time:0.94, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-23.0/equations.txt, #equations:157119, #workers:4, write_equations_time:0.57, 
+April 12 03:58:52 | xoff-3:
+ ### params:0.9-3.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-3.0/dag.pkl, #edges:74, #paths:51602, #mid_onlys:1551, dag_process_time:1.34, 
+ params: 0.9-3.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-3.0/ways.txt, #nodes:53227, write_ways_time:0.26, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-3.0/equations.txt, #equations:53153, #workers:4, write_equations_time:0.12, 
+April 12 04:00:28 | xoff-3:
+ ### params:0.9-3.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-3.5/dag.pkl, #edges:74, #paths:81220, #mid_onlys:1722, dag_process_time:2.04, 
+ params: 0.9-3.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-3.5/ways.txt, #nodes:83016, write_ways_time:0.41, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-3.5/equations.txt, #equations:82942, #workers:4, write_equations_time:0.19, 
+April 12 04:02:26 | xoff-3:
+ ### params:0.9-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-4.0/dag.pkl, #edges:74, #paths:121082, #mid_onlys:1520, dag_process_time:3.13, 
+ params: 0.9-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-4.0/ways.txt, #nodes:122676, write_ways_time:0.64, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-4.0/equations.txt, #equations:122602, #workers:4, write_equations_time:0.33, 
+April 12 04:04:38 | xoff-3:
+ ### params:0.9-4.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-4.5/dag.pkl, #edges:74, #paths:144245, #mid_onlys:1389, dag_process_time:3.84, 
+ params: 0.9-4.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-4.5/ways.txt, #nodes:145708, write_ways_time:0.7, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-4.5/equations.txt, #equations:145634, #workers:4, write_equations_time:0.33, 
+April 12 04:07:03 | xoff-3:
+ ### params:0.9-5.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-5.0/dag.pkl, #edges:74, #paths:176720, #mid_onlys:1282, dag_process_time:4.68, 
+ params: 0.9-5.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-5.0/ways.txt, #nodes:178076, write_ways_time:0.97, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-5.0/equations.txt, #equations:178002, #workers:4, write_equations_time:0.47, 
+April 12 04:09:38 | xoff-3:
+ ### params:0.9-6.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-6.0/dag.pkl, #edges:74, #paths:210702, #mid_onlys:1055, dag_process_time:5.89, 
+ params: 0.9-6.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-6.0/ways.txt, #nodes:211831, write_ways_time:1.07, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-6.0/equations.txt, #equations:211757, #workers:4, write_equations_time:0.52, 
+April 12 04:12:31 | xoff-3:
+ ### params:0.9-8.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-8.0/dag.pkl, #edges:74, #paths:249811, #mid_onlys:833, dag_process_time:6.68, 
+ params: 0.9-8.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-8.0/ways.txt, #nodes:250718, write_ways_time:1.29, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-8.0/equations.txt, #equations:250644, #workers:4, write_equations_time:0.6, 
+April 12 04:15:24 | xoff-3:
+ ### params:0.9-10.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-10.0/dag.pkl, #edges:74, #paths:261300, #mid_onlys:789, dag_process_time:7.27, 
+ params: 0.9-10.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-10.0/ways.txt, #nodes:262163, write_ways_time:1.43, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-10.0/equations.txt, #equations:262089, #workers:4, write_equations_time:0.73, 
+April 12 04:18:22 | xoff-3:
+ ### params:0.9-15.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-15.0/dag.pkl, #edges:74, #paths:275176, #mid_onlys:708, dag_process_time:7.73, 
+ params: 0.9-15.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-15.0/ways.txt, #nodes:275958, write_ways_time:1.56, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-15.0/equations.txt, #equations:275884, #workers:4, write_equations_time:0.75, 
+April 12 04:21:22 | xoff-3:
+ ### params:0.9-23.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-23.0/dag.pkl, #edges:74, #paths:280002, #mid_onlys:697, dag_process_time:7.63, 
+ params: 0.9-23.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-23.0/ways.txt, #nodes:280773, write_ways_time:2.19, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.9-23.0/equations.txt, #equations:280699, #workers:4, write_equations_time:0.78, 
+April 12 04:23:54 | xoff-3:
+ ### params:0.95-3.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-3.0/dag.pkl, #edges:74, #paths:106664, #mid_onlys:0, dag_process_time:2.36, 
+ params: 0.95-3.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-3.0/ways.txt, #nodes:106738, write_ways_time:0.6, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-3.0/equations.txt, #equations:106664, #workers:4, write_equations_time:0.29, 
+April 12 04:26:59 | xoff-3:
+ ### params:0.95-3.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-3.5/dag.pkl, #edges:74, #paths:166724, #mid_onlys:0, dag_process_time:3.73, 
+ params: 0.95-3.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-3.5/ways.txt, #nodes:166798, write_ways_time:0.77, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-3.5/equations.txt, #equations:166724, #workers:4, write_equations_time:0.33, 
+April 12 04:30:46 | xoff-3:
+ ### params:0.95-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:0, dag_process_time:5.48, 
+ params: 0.95-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-4.0/ways.txt, #nodes:244292, write_ways_time:1.26, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-4.0/equations.txt, #equations:244218, #workers:4, write_equations_time:0.58, 
+April 12 04:34:59 | xoff-3:
+ ### params:0.95-4.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-4.5/dag.pkl, #edges:74, #paths:289464, #mid_onlys:0, dag_process_time:6.82, 
+ params: 0.95-4.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-4.5/ways.txt, #nodes:289538, write_ways_time:2.54, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-4.5/equations.txt, #equations:289464, #workers:4, write_equations_time:0.81, 
+April 12 04:40:02 | xoff-3:
+ ### params:0.95-5.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-5.0/dag.pkl, #edges:74, #paths:350488, #mid_onlys:0, dag_process_time:8.52, 
+ params: 0.95-5.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-5.0/ways.txt, #nodes:350562, write_ways_time:3.35, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-5.0/equations.txt, #equations:350488, #workers:4, write_equations_time:0.91, 
+April 12 04:45:25 | xoff-3:
+ ### params:0.95-6.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-6.0/dag.pkl, #edges:74, #paths:417138, #mid_onlys:0, dag_process_time:10.76, 
+ params: 0.95-6.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-6.0/ways.txt, #nodes:417212, write_ways_time:2.22, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-6.0/equations.txt, #equations:417138, #workers:4, write_equations_time:0.94, 
+April 12 04:51:13 | xoff-3:
+ ### params:0.95-8.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-8.0/dag.pkl, #edges:74, #paths:491426, #mid_onlys:0, dag_process_time:12.22, 
+ params: 0.95-8.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-8.0/ways.txt, #nodes:491500, write_ways_time:2.68, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-8.0/equations.txt, #equations:491426, #workers:4, write_equations_time:1.29, 
+April 12 04:57:10 | xoff-3:
+ ### params:0.95-10.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-10.0/dag.pkl, #edges:74, #paths:513558, #mid_onlys:0, dag_process_time:12.4, 
+ params: 0.95-10.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-10.0/ways.txt, #nodes:513632, write_ways_time:3.5, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-10.0/equations.txt, #equations:513558, #workers:4, write_equations_time:1.52, 
+April 12 05:03:30 | xoff-3:
+ ### params:0.95-15.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-15.0/dag.pkl, #edges:74, #paths:540876, #mid_onlys:0, dag_process_time:13.37, 
+ params: 0.95-15.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-15.0/ways.txt, #nodes:540950, write_ways_time:2.85, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-15.0/equations.txt, #equations:540876, #workers:4, write_equations_time:1.16, 
+April 12 05:09:43 | xoff-3:
+ ### params:0.95-23.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-23.0/dag.pkl, #edges:74, #paths:550274, #mid_onlys:0, dag_process_time:13.38, 
+ params: 0.95-23.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-23.0/ways.txt, #nodes:550348, write_ways_time:2.74, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.95-23.0/equations.txt, #equations:550274, #workers:4, write_equations_time:1.21, 
+April 12 05:12:34 | xoff-3:
+ ### params:1.0-3.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-3.0/dag.pkl, #edges:74, #paths:106664, #mid_onlys:0, dag_process_time:2.24, 
+ params: 1.0-3.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-3.0/ways.txt, #nodes:106738, write_ways_time:0.49, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-3.0/equations.txt, #equations:106664, #workers:4, write_equations_time:0.28, 
+April 12 05:15:37 | xoff-3:
+ ### params:1.0-3.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-3.5/dag.pkl, #edges:74, #paths:166724, #mid_onlys:0, dag_process_time:3.75, 
+ params: 1.0-3.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-3.5/ways.txt, #nodes:166798, write_ways_time:0.77, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-3.5/equations.txt, #equations:166724, #workers:4, write_equations_time:0.34, 
+April 12 05:19:27 | xoff-3:
+ ### params:1.0-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:0, dag_process_time:5.62, 
+ params: 1.0-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/ways.txt, #nodes:244292, write_ways_time:1.27, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/equations.txt, #equations:244218, #workers:4, write_equations_time:0.57, 
+April 12 05:23:45 | xoff-3:
+ ### params:1.0-4.5, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.5/dag.pkl, #edges:74, #paths:289464, #mid_onlys:0, dag_process_time:7.02, 
+ params: 1.0-4.5, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.5/ways.txt, #nodes:289538, write_ways_time:1.47, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.5/equations.txt, #equations:289464, #workers:4, write_equations_time:0.59, 
+April 12 05:28:32 | xoff-3:
+ ### params:1.0-5.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-5.0/dag.pkl, #edges:74, #paths:350488, #mid_onlys:0, dag_process_time:8.23, 
+ params: 1.0-5.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-5.0/ways.txt, #nodes:350562, write_ways_time:1.84, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-5.0/equations.txt, #equations:350488, #workers:4, write_equations_time:0.69, 
+April 12 05:33:49 | xoff-3:
+ ### params:1.0-6.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-6.0/dag.pkl, #edges:74, #paths:417138, #mid_onlys:0, dag_process_time:9.99, 
+ params: 1.0-6.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-6.0/ways.txt, #nodes:417212, write_ways_time:2.42, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-6.0/equations.txt, #equations:417138, #workers:4, write_equations_time:1.03, 
+April 12 05:39:38 | xoff-3:
+ ### params:1.0-8.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-8.0/dag.pkl, #edges:74, #paths:491426, #mid_onlys:0, dag_process_time:12.22, 
+ params: 1.0-8.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-8.0/ways.txt, #nodes:491500, write_ways_time:2.69, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-8.0/equations.txt, #equations:491426, #workers:4, write_equations_time:1.14, 
+April 12 05:45:40 | xoff-3:
+ ### params:1.0-10.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-10.0/dag.pkl, #edges:74, #paths:513558, #mid_onlys:0, dag_process_time:12.32, 
+ params: 1.0-10.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-10.0/ways.txt, #nodes:513632, write_ways_time:3.41, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-10.0/equations.txt, #equations:513558, #workers:4, write_equations_time:1.34, 
+April 12 05:51:51 | xoff-3:
+ ### params:1.0-15.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-15.0/dag.pkl, #edges:74, #paths:540876, #mid_onlys:0, dag_process_time:13.05, 
+ params: 1.0-15.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-15.0/ways.txt, #nodes:540950, write_ways_time:2.93, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-15.0/equations.txt, #equations:540876, #workers:4, write_equations_time:1.3, 
+April 12 05:58:03 | xoff-3:
+ ### params:1.0-23.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-23.0/dag.pkl, #edges:74, #paths:550274, #mid_onlys:0, dag_process_time:12.94, 
+ params: 1.0-23.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-23.0/ways.txt, #nodes:550348, write_ways_time:3.04, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-23.0/equations.txt, #equations:550274, #workers:4, write_equations_time:1.37, 
+May 15 02:03:15 | xoff-3:
+ ### params:0.85-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, #edges:74, #paths:66493, #mid_onlys:5160, dag_process_time:2.27, 
+ params: 0.85-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/ways.txt, #nodes:71727, write_ways_time:0.43, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/equations.txt, #equations:71653, #workers:4, write_equations_time:0.19, 
+May 15 02:18:18 | xoff-3:
+ ### params:0.85-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, #edges:74, #paths:66493, #mid_onlys:23, dag_process_time:2.31, 
+ params: 0.85-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/ways.txt, #nodes:66590, write_ways_time:0.38, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/equations.txt, #equations:66516, #workers:4, write_equations_time:0.2, 
+May 15 02:33:28 | xoff-3:
+ ### params:0.85-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, #edges:74, #paths:66493, #mid_onlys:23, dag_process_time:2.31, 
+ params: 0.85-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/ways.txt, #nodes:66590, write_ways_time:0.38, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/equations.txt, #equations:66516, #workers:4, write_equations_time:0.27, 
+May 15 02:57:47 | xoff-3:
+ ### params:0.85-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, #edges:74, #paths:66493, #mid_onlys:11971, dag_process_time:2.46, 
+ params: 0.85-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/ways.txt, #nodes:78538, write_ways_time:0.43, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/equations.txt, #equations:78464, #workers:4, write_equations_time:0.17, 
+May 15 03:08:13 | xoff-3:
+ ### params:0.85-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, #edges:74, #paths:66493, #mid_onlys:12416, dag_process_time:2.07, 
+ params: 0.85-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/ways.txt, #nodes:78983, write_ways_time:0.42, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/equations.txt, #equations:78909, #workers:4, write_equations_time:0.18, 
+May 15 03:17:22 | xoff-3:
+ ### params:0.85-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, #edges:74, #paths:66493, #mid_onlys:12416, dag_process_time:2.42, 
+ params: 0.85-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/ways.txt, #nodes:78983, write_ways_time:0.57, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/0.85-4.0/equations.txt, #equations:78909, #workers:4, write_equations_time:0.25, 
+May 15 03:18:07 | xoff-3:
+ ### params:1.0-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:0, dag_process_time:6.71, 
+ params: 1.0-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/ways.txt, #nodes:244292, write_ways_time:1.69, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/equations.txt, #equations:244218, #workers:4, write_equations_time:0.69, 
+May 15 09:55:05 | xoff-3:
+ ### params:1.0-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:0, dag_process_time:6.27, 
+ params: 1.0-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/ways.txt, #nodes:244292, write_ways_time:1.2, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/equations.txt, #equations:244218, #workers:4, write_equations_time:0.58, 
+May 15 04:54:03 | xoff-3:
+ ### params:1.0-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:0, dag_process_time:7.4, 
+ params: 1.0-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/ways.txt, #nodes:244292, write_ways_time:1.57, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/equations.txt, #equations:244218, #workers:4, write_equations_time:0.75, 
+May 16 12:53:25 | xoff-3:
+ ### params:1.0-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:7902, dag_process_time:5.89, 
+ params: 1.0-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/ways.txt, #nodes:252194, write_ways_time:1.21, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/equations.txt, #equations:252120, #workers:4, write_equations_time:0.68, 
+May 16 02:20:03 | xoff-3:
+ ### params:1.0-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:7899, dag_process_time:7.1, 
+ params: 1.0-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/ways.txt, #nodes:252191, write_ways_time:1.29, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/equations.txt, #equations:252117, #workers:4, write_equations_time:0.68, 
+May 16 03:23:56 | xoff-3:
+ ### params:1.0-4.0, dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, #edges:74, #paths:244218, #mid_onlys:7899, dag_process_time:7.25, 
+ params: 1.0-4.0, ways_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/ways.txt, #nodes:252191, write_ways_time:1.39, , equations_file:/root/configs/geant/config1/data/offline/xoff_3/1.0-4.0/equations.txt, #equations:252117, #workers:4, write_equations_time:0.74, 

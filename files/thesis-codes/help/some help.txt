@@ -1,0 +1,76 @@
+
+# Help
+
+Run these in windous python cli
+```python
+script='e:/Mostafa/PHD/THESIS/TEZ/Pythons/AllPaths/allPaths/allpaths.py'
+exec(open(script).read())
+
+#TOPOLOGY = geant
+TOPOLOGY = mytopo1
+g = Graph(TOPOLOGY)
+acep = 0.9 #0.0 .. 1.0 --> (0.0 gives disjoint paths)
+aps = 4.0  #1.0 .. 100  --> 1 gives just shortest paths
+src = 1 # 0, ..., g.V-1
+dst = 2 # 0, ..., g.V-1
+g.load()
+# g.save_paths_from_to(acep, aps, 30)
+
+pathlist = g.get_paths_from_to(acep, aps, sources = [1])
+pathlist_stats(pathlist, verbosity = 2)
+paths = flatten_pathlist(pathlist)
+epaths = flatten_pathlist(pathlist, with_epaths = True)
+save_as_json(paths, os.path.join(dataset_pkl_dir(), paths.json))
+#pathlets = paths_to_pathlets(paths)
+#ordered_pls = order_dict_as_dict(pathlets, reverse = True)
+#path_to_pathlets(paths[0])
+
+x = g.getPaths(acep, aps, src, dst)
+x.Print()
+g.save()
+FullPaths = g._PATHs[DefaultParams][src][dst]
+g.save_paths_from_to(acep, aps, 30)
+
+misc:
+g.getPaths(acep, aps, 1, 2)
+g.printPaths(acep, aps, 1, 2)
+g._PATHs.keys()
+g._PATHs['0.8-3.0'][1][2].Print()
+g.save_paths_from_to(acep, aps)
+```
+
+## Examples
+
+```python
+
+
+#scenario 1:  mytopo 1 -> *
+#    1.0, 10
+script='e:/Mostafa/PHD/THESIS/TEZ/Pythons/AllPaths/allpaths.py'
+exec(open(script).read())
+TOPOLOGY = mytopo1
+g = Graph(TOPOLOGY)
+acep = 9.0
+aps = 4
+# g.load()
+# g.save_paths_from_to(acep, aps, 30)
+pathlist = g.get_paths_from_to(acep, aps, sources = [1], dont_load = True)
+g.pathlist_stats(pathlist, verbosity = 2)
+#paths = flatten_pathlist(pathlist)
+#pathlist[0][2].Paths
+
+
+#scenario 2:  geant 1 -> *
+#    1.0, 10
+script='e:/Mostafa/PHD/THESIS/TEZ/Pythons/AllPaths/allpaths.py'
+exec(open(script).read())
+TOPOLOGY = geant
+g = Graph(TOPOLOGY)
+acep = 0.85
+aps = 5
+# g.load()
+#g.save_paths_from_to(acep, aps, 30, sources = [20])
+pathlist1 = g.get_paths_from_to(acep, aps, sources = [20], dont_load = False)
+pathlist_stats(pathlist1, verbosity = 2)
+
+```

@@ -1,0 +1,31 @@
+#include <cstdlib>
+#include <ctime>
+#include <thread>
+#include "Matrix.h"
+
+void xerop (Matrix* mat, int S) {
+// Get the size of the matrix
+int m = mat->getSize ().first;
+int n = mat->getSize ().second;
+
+// Initialize the random seed
+srand (time (NULL));
+
+// Loop forever
+while (true) {
+// Fill the matrix with random integers
+for (int i = 0; i < m; i++) {
+for (int j = 0; j < n; j++) {
+// Generate a random integer between 0 and 99
+int val = rand () % 100;
+// Set the value of the cell
+(*mat) [i] [j].setMcval (val);
+}
+}
+
+// Sleep for S seconds
+std::this_thread::sleep_for (std::chrono::seconds (S));
+}
+}
+
+// The function xeror takes a pointer to a Matrix object and a port number as parameters. It opens a raw socket that listens on the given port, and responds to requests of the form "GET NUMBER x y" by reading the value of the cell at row x and column y in the matrix, and sending back a response of the form "GIVE x y v", where v is the value of the cell. It also prints the request and the response on the standard output.

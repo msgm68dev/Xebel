@@ -1,0 +1,86 @@
+#include <iostream>
+#include <sstream>
+#include <string>
+#include <cstring>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include "Matrix.h"
+
+void xeror(Matrix *mat, int port)
+{
+    // Create a raw socket
+    int sock = socket(AF_INET, SOCK_RAW, IPPROTO_RAW);
+    if (sock == -1)
+    {
+        std::cerr << "Error creating socket" << std::endl;
+        return;
+    }
+
+    // Bind the socket to the given port
+    struct sockaddr_in addr;
+    addr.sin_family = AF_INET;
+    addr.sin_port = htons(port);
+    addr.sin_addr.s_addr = INADDR_ANY;
+    if (bind(sock, (struct sockaddr *)&addr, sizeof(addr)) == -1)
+    {
+        std::cerr << "Error binding socket" << std::endl;
+        return;
+    }
+
+    // Loop forever
+    while (true)
+    {
+        // Receive a request from the socket
+        char buffer[1024];
+        struct sockaddr_in src;
+        socklen_t len = sizeof(src);
+        int bytes = recvfrom(sock, buffer, sizeof(buffer), 0, (struct sockaddr *)&src, &len);
+        if (bytes == -1)
+        {
+            std::cerr << "Error receiving from socket" << std::endl;
+            continue;
+        }
+
+        // Convert the request to a string
+        std::string request(buffer, bytes);
+
+        // Print the request
+        std::cout << "Received request: " << request << std::endl;
+
+        // Parse the request
+        std::istringstream iss(request);
+        std::string cmd, x, y;
+        iss >> cmd >> x >> y;
+
+        // Check if the request is valid
+        if (cmd == "GET" && x == "NUMBER")
+        {
+            // Convert the row and column indices to integers
+            int i = std::stoi(y);
+            int j = std::stoi(x);
+
+            // Get the value of the cell
+            int v = (*mat)[i][j].getMcval();
+
+            // Format the response
+            std::ostringstream oss;
+            oss << "GIVE " << x << " " << y << " " << v;
+            std::string response = oss.str();
+
+            // Print the response
+            std::cout << "Sending response: " << response << std::endl;
+
+            // Send the response to the socket
+            if (sendto(sock, response.c_str(), response.size(), 0, (struct sockaddr *)&src, len) == -1)
+            {
+                std::cerr << "Error sending to socket" << std::endl;
+            }
+        }
+        else
+        {
+            // Invalid request
+            std::cerr << "Invalid request format" << std::endl;
+        }
+    }
+}

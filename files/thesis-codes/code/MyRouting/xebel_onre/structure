@@ -1,0 +1,94 @@
+/*
+// ---------------- Common ----------------
+xeonrt.h:
+class way
+    int src
+    int dst
+    float m1_val
+    float m2_val
+    bool is_path
+    bool is_edge
+    bool is_mid
+    bool is_midonly
+    string tuple_dashed
+    vector<unsigned short> tuple
+    char m1_key[50]
+    char m2_key[50]
+    bool locked = false
+    function get_m1
+        wait lock, read
+    function get_m2
+        wait lock, read
+    function set_m1
+        lock, write, unlock
+    function set_m2
+        lock, write, unlock
+
+class path : way
+    int row
+    int col
+    function move_to_box
+class edge : way 
+    string filename
+    function update_from_file
+    
+way * Ways
+edge * Edges
+path * Paths
+
+class metric
+    string name
+    bool reverse
+    string optimum, operator
+
+// ---------------- For online phase ----------------
+xebel_on.h:
+class equation
+    string left_key
+    string * right_keys
+    operator
+class xono
+    xon * Xon
+    equation* equations
+    function go_equatino(operator)
+    functino run
+
+class xon
+    equation* all_equations
+    xono * workers
+    function edge_updater
+    logger
+    
+// ---------------- For Realtime phase ----------------
+xebel_re.h:
+
+
+class metric_range
+    metric * m
+    float low_val
+    float high_val
+
+class metric_box
+    metric_range * mr1
+    metric_range * mr2
+    int row
+    int col
+    list<way *> ways
+
+class Metrix
+    metric_box ** table 
+    int src 
+    int dst
+    string name
+
+class Path_Organizer
+    Metrix ** tables
+    int n_rows
+    int n_cols
+    int n_nodes
+    string name
+
+class xer
+    Path_Organizer
+    logger
+*/

@@ -1,0 +1,50 @@
+TEST1:
+geant acep = 0.85, aps = 4, src = [1]
+Paths = 2582
+Edges = 72
+Pathlets = 14026 --> 7448
+
+/home/mostafa/thesis-codes/data/geant/vtx 0-22/pickles/dag/dag.pkl
+init score = 21637.0
+killed at: 15932
+----------------
+
+ds=mytopo1
+ds=geant
+path-calc.sh calc $ds
+
+g = Graph(TOPOLOGY)
+acep = 0.8
+aps = 3.0
+pathlist = g.get_paths_from_to(acep, aps, sources = [3])
+DIR = addr_as_json(g.topology+"_pathlist")
+pathlist_export(pathlist, DIR, e = False, as_json = True)
+exit()
+
+path-calc.sh dag $ds
+DIR = addr_as_json(TOPOLOGY+"_pathlist")
+d = dag(DIR)
+d.make()
+d.used_edges()
+for pl in d.Pathlets:
+	pl.Print()
+for n in nodes.values():
+	_update_sublets_enable(n)
+
+d.save()
+
+
+path-calc.sh dag mytopo1
+d = dag(addr_as_json(TOPOLOGY+"_pathlist"))
+d = load_dag()
+sortkey = lambda x: len(x.Tuple)
+pls = sorted(d.Pathlets, key=sortkey)
+for pl in pls:
+ pl.Tuple
+
+
+>>> sorted(x, key=lambda z:len(str(z)))
+[0, 'f', 14, 55, 'ali']
+>>> x = [2555, 14, 55, 'ali', 0, 'f']
+>>> sorted(x, key=lambda z:len(str(z)))
+[0, 'f', 14, 55, 'ali', 2555]

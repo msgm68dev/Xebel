@@ -1,0 +1,1 @@
+g++ sample.cc -o sample -ggdb -O3 -lmemcached

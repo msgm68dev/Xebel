@@ -1,0 +1,11 @@
+* topology = /home/mostafa/thesis-codes/data/topology/geant
+* traffic = /home/mostafa/thesis-codes/data/flowset/tr_geant_50000
+Alg                 avg_cap	avg_util	std_util	#reject		time
+spf       	        6000	4873.27		1384.39		6257		7.6
+subal 0.85 3.0 0.0  6000	4784.99		1238.19		6550		< 0.5
+subal 0.85 4.0 0.0  6000	4792.85		1235.03		6576		< 0.5
+subal 0.9 3.0  0.0  6000	4738.22		1257.08		6489		< 0.5
+subal 0.9 4.0  0.0  6000	4737.57		1259.85		6530		0.36
+subal 0.95 3.0 0.0  6000	4734.09		1254.11		6295		0.34
+subal 0.95 3.0 0.2	6000	4781.7		1216.67		6389		0.35
+subal 0.95 3.0 0.3	6000	4916.97		1082.36		6784		0.35

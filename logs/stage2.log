@@ -1,0 +1,214 @@
+ xoff-2:
+ April 12 01:30:47, params:0.7-3.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:19.37, base_dag_cost:85752, dag_cost:15131, improvement_percentage:82.35, avg_ops/path:1.48, mid_paths:0, paths:10295, midonlys:2958, dag_verified:True, save_dag_time:0.04, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-3.0/dag.pkl, 
+ xoff-2:
+ April 12 01:31:54, params:0.7-3.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:49.89, base_dag_cost:147061, dag_cost:23096, improvement_percentage:84.29, avg_ops/path:1.46, mid_paths:0, paths:15886, midonlys:4396, dag_verified:True, save_dag_time:0.06, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-3.5/dag.pkl, 
+ xoff-2:
+ April 12 01:33:52, params:0.7-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:96.71, base_dag_cost:230151, dag_cost:32664, improvement_percentage:85.81, avg_ops/path:1.41, mid_paths:0, paths:23204, midonlys:6003, dag_verified:True, save_dag_time:0.1, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-4.0/dag.pkl, 
+ xoff-2:
+ April 12 01:36:22, params:0.7-4.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:128.76, base_dag_cost:280645, dag_cost:38187, improvement_percentage:86.39, avg_ops/path:1.39, mid_paths:0, paths:27505, midonlys:6838, dag_verified:True, save_dag_time:0.13, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-4.5/dag.pkl, 
+ xoff-2:
+ April 12 01:39:43, params:0.7-5.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:177.8, base_dag_cost:359655, dag_cost:45973, improvement_percentage:87.22, avg_ops/path:1.36, mid_paths:0, paths:33759, midonlys:7872, dag_verified:True, save_dag_time:0.15, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-5.0/dag.pkl, 
+ xoff-2:
+ April 12 01:43:51, params:0.7-6.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:224.64, base_dag_cost:439839, dag_cost:53520, improvement_percentage:87.83, avg_ops/path:1.34, mid_paths:0, paths:39959, midonlys:8749, dag_verified:True, save_dag_time:0.2, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-6.0/dag.pkl, 
+ xoff-2:
+ April 12 01:49:30, params:0.7-8.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:313.3, base_dag_cost:536758, dag_cost:62318, improvement_percentage:88.39, avg_ops/path:1.32, mid_paths:0, paths:47302, midonlys:9819, dag_verified:True, save_dag_time:0.24, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-8.0/dag.pkl, 
+ xoff-2:
+ April 12 01:55:17, params:0.7-10.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:320.3, base_dag_cost:565630, dag_cost:64491, improvement_percentage:88.6, avg_ops/path:1.31, mid_paths:0, paths:49362, midonlys:9976, dag_verified:True, save_dag_time:0.26, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-10.0/dag.pkl, 
+ xoff-2:
+ April 12 02:01:02, params:0.7-15.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:317.52, base_dag_cost:598914, dag_cost:67045, improvement_percentage:88.81, avg_ops/path:1.29, mid_paths:0, paths:52096, midonlys:10007, dag_verified:True, save_dag_time:0.23, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-15.0/dag.pkl, 
+ xoff-2:
+ April 12 02:06:58, params:0.7-23.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:328.59, base_dag_cost:613130, dag_cost:68128, improvement_percentage:88.89, avg_ops/path:1.29, mid_paths:0, paths:52989, midonlys:10083, dag_verified:True, save_dag_time:0.24, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.7-23.0/dag.pkl, 
+ xoff-2:
+ April 12 02:07:50, params:0.75-3.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:29.94, base_dag_cost:127163, dag_cost:20514, improvement_percentage:83.87, avg_ops/path:1.37, mid_paths:0, paths:15015, midonlys:3400, dag_verified:True, save_dag_time:0.05, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-3.0/dag.pkl, 
+ xoff-2:
+ April 12 02:09:16, params:0.75-3.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:62.13, base_dag_cost:219036, dag_cost:31135, improvement_percentage:85.79, avg_ops/path:1.34, mid_paths:0, paths:23366, midonlys:4945, dag_verified:True, save_dag_time:0.1, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-3.5/dag.pkl, 
+ xoff-2:
+ April 12 02:11:40, params:0.75-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:115.81, base_dag_cost:341418, dag_cost:44116, improvement_percentage:87.08, avg_ops/path:1.3, mid_paths:0, paths:34117, midonlys:6407, dag_verified:True, save_dag_time:0.15, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-4.0/dag.pkl, 
+ xoff-2:
+ April 12 02:14:43, params:0.75-4.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:153.57, base_dag_cost:414139, dag_cost:51414, improvement_percentage:87.59, avg_ops/path:1.28, mid_paths:0, paths:40315, midonlys:7166, dag_verified:True, save_dag_time:0.21, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-4.5/dag.pkl, 
+ xoff-2:
+ April 12 02:18:33, params:0.75-5.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:198.05, base_dag_cost:528028, dag_cost:61893, improvement_percentage:88.28, avg_ops/path:1.26, mid_paths:0, paths:49355, midonlys:8157, dag_verified:True, save_dag_time:0.22, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-5.0/dag.pkl, 
+ xoff-2:
+ April 12 02:23:19, params:0.75-6.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:250.04, base_dag_cost:645921, dag_cost:72185, improvement_percentage:88.82, avg_ops/path:1.24, mid_paths:0, paths:58494, midonlys:9123, dag_verified:True, save_dag_time:0.26, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-6.0/dag.pkl, 
+ xoff-2:
+ April 12 02:29:16, params:0.75-8.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:319.72, base_dag_cost:789586, dag_cost:84134, improvement_percentage:89.34, avg_ops/path:1.21, mid_paths:0, paths:69379, midonlys:9754, dag_verified:True, save_dag_time:0.33, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-8.0/dag.pkl, 
+ xoff-2:
+ April 12 02:35:03, params:0.75-10.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:308.63, base_dag_cost:832157, dag_cost:86949, improvement_percentage:89.55, avg_ops/path:1.2, mid_paths:0, paths:72414, midonlys:9655, dag_verified:True, save_dag_time:0.31, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-10.0/dag.pkl, 
+ xoff-2:
+ April 12 02:41:02, params:0.75-15.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:318.83, base_dag_cost:880321, dag_cost:90964, improvement_percentage:89.67, avg_ops/path:1.19, mid_paths:0, paths:76372, midonlys:9659, dag_verified:True, save_dag_time:0.33, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-15.0/dag.pkl, 
+ xoff-2:
+ April 12 02:47:09, params:0.75-23.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:327.81, base_dag_cost:900590, dag_cost:92181, improvement_percentage:89.76, avg_ops/path:1.19, mid_paths:0, paths:77650, midonlys:9624, dag_verified:True, save_dag_time:0.4, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.75-23.0/dag.pkl, 
+ xoff-2:
+ April 12 02:48:15, params:0.8-3.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:35.26, base_dag_cost:183096, dag_cost:26930, improvement_percentage:85.29, avg_ops/path:1.27, mid_paths:0, paths:21312, midonlys:3512, dag_verified:True, save_dag_time:0.09, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-3.0/dag.pkl, 
+ xoff-2:
+ April 12 02:50:06, params:0.8-3.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:79.68, base_dag_cost:314105, dag_cost:41216, improvement_percentage:86.88, avg_ops/path:1.25, mid_paths:0, paths:33160, midonlys:4998, dag_verified:True, save_dag_time:0.12, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-3.5/dag.pkl, 
+ xoff-2:
+ April 12 02:52:54, params:0.8-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:129.69, base_dag_cost:496031, dag_cost:59005, improvement_percentage:88.1, avg_ops/path:1.2, mid_paths:0, paths:49053, midonlys:6278, dag_verified:True, save_dag_time:0.21, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-4.0/dag.pkl, 
+ xoff-2:
+ April 12 02:56:14, params:0.8-4.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:157.14, base_dag_cost:604209, dag_cost:68799, improvement_percentage:88.61, avg_ops/path:1.18, mid_paths:0, paths:58190, midonlys:6760, dag_verified:True, save_dag_time:0.25, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-4.5/dag.pkl, 
+ xoff-2:
+ April 12 03:00:05, params:0.8-5.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:186.76, base_dag_cost:768873, dag_cost:83082, improvement_percentage:89.19, avg_ops/path:1.17, mid_paths:0, paths:71225, midonlys:7487, dag_verified:True, save_dag_time:0.31, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-5.0/dag.pkl, 
+ xoff-2:
+ April 12 03:05:02, params:0.8-6.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:246.53, base_dag_cost:944458, dag_cost:97386, improvement_percentage:89.69, avg_ops/path:1.15, mid_paths:0, paths:84760, midonlys:7993, dag_verified:True, save_dag_time:0.42, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-6.0/dag.pkl, 
+ xoff-2:
+ April 12 03:10:24, params:0.8-8.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:269.49, base_dag_cost:1150927, dag_cost:113461, improvement_percentage:90.14, avg_ops/path:1.13, mid_paths:0, paths:100400, midonlys:8361, dag_verified:True, save_dag_time:0.49, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-8.0/dag.pkl, 
+ xoff-2:
+ April 12 03:15:48, params:0.8-10.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:270.0, base_dag_cost:1213560, dag_cost:117923, improvement_percentage:90.28, avg_ops/path:1.13, mid_paths:0, paths:104836, midonlys:8335, dag_verified:True, save_dag_time:0.49, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-10.0/dag.pkl, 
+ xoff-2:
+ April 12 03:20:55, params:0.8-15.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:251.16, base_dag_cost:1282836, dag_cost:122894, improvement_percentage:90.42, avg_ops/path:1.11, mid_paths:0, paths:110533, midonlys:7892, dag_verified:True, save_dag_time:0.5, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-15.0/dag.pkl, 
+ xoff-2:
+ April 12 03:26:04, params:0.8-23.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:252.6, base_dag_cost:1312591, dag_cost:124917, improvement_percentage:90.48, avg_ops/path:1.11, mid_paths:0, paths:112405, midonlys:7945, dag_verified:True, save_dag_time:0.51, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.8-23.0/dag.pkl, 
+ xoff-2:
+ April 12 03:27:13, params:0.85-3.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:31.33, base_dag_cost:249330, dag_cost:33984, improvement_percentage:86.37, avg_ops/path:1.19, mid_paths:0, paths:28658, midonlys:3221, dag_verified:True, save_dag_time:0.11, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-3.0/dag.pkl, 
+ xoff-2:
+ April 12 03:29:03, params:0.85-3.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:66.88, base_dag_cost:430989, dag_cost:52421, improvement_percentage:87.84, avg_ops/path:1.17, mid_paths:0, paths:44991, midonlys:4360, dag_verified:True, save_dag_time:0.19, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-3.5/dag.pkl, 
+ xoff-2:
+ April 12 03:31:35, params:0.85-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:100.27, base_dag_cost:678591, dag_cost:75217, improvement_percentage:88.92, avg_ops/path:1.13, mid_paths:0, paths:66567, midonlys:5160, dag_verified:True, save_dag_time:0.26, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, 
+ xoff-2:
+ April 12 03:34:30, params:0.85-4.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:118.37, base_dag_cost:828190, dag_cost:88330, improvement_percentage:89.33, avg_ops/path:1.12, mid_paths:0, paths:79136, midonlys:5496, dag_verified:True, save_dag_time:0.34, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.5/dag.pkl, 
+ xoff-2:
+ April 12 03:37:58, params:0.85-5.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:146.57, base_dag_cost:1048421, dag_cost:106506, improvement_percentage:89.84, avg_ops/path:1.1, mid_paths:0, paths:96559, midonlys:5823, dag_verified:True, save_dag_time:0.44, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-5.0/dag.pkl, 
+ xoff-2:
+ April 12 03:41:42, params:0.85-6.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:156.17, base_dag_cost:1283780, dag_cost:124709, improvement_percentage:90.29, avg_ops/path:1.09, mid_paths:0, paths:114751, midonlys:6048, dag_verified:True, save_dag_time:0.53, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-6.0/dag.pkl, 
+ xoff-2:
+ April 12 03:45:41, params:0.85-8.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:166.25, base_dag_cost:1561633, dag_cost:145497, improvement_percentage:90.68, avg_ops/path:1.07, mid_paths:0, paths:135751, midonlys:5758, dag_verified:True, save_dag_time:0.6, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-8.0/dag.pkl, 
+ xoff-2:
+ April 12 03:49:43, params:0.85-10.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:167.44, base_dag_cost:1647223, dag_cost:151537, improvement_percentage:90.8, avg_ops/path:1.07, mid_paths:0, paths:141768, midonlys:5711, dag_verified:True, save_dag_time:0.63, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-10.0/dag.pkl, 
+ xoff-2:
+ April 12 03:53:37, params:0.85-15.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:156.25, base_dag_cost:1738343, dag_cost:158373, improvement_percentage:90.89, avg_ops/path:1.06, mid_paths:0, paths:149253, midonlys:5422, dag_verified:True, save_dag_time:0.78, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-15.0/dag.pkl, 
+ xoff-2:
+ April 12 03:57:32, params:0.85-23.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:157.88, base_dag_cost:1777340, dag_cost:161048, improvement_percentage:90.94, avg_ops/path:1.06, mid_paths:0, paths:151710, midonlys:5483, dag_verified:True, save_dag_time:0.64, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-23.0/dag.pkl, 
+ xoff-2:
+ April 12 03:58:51, params:0.9-3.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:16.53, base_dag_cost:456282, dag_cost:54760, improvement_percentage:88.0, avg_ops/path:1.06, mid_paths:0, paths:51676, midonlys:1551, dag_verified:True, save_dag_time:0.2, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-3.0/dag.pkl, 
+ xoff-2:
+ April 12 04:00:27, params:0.9-3.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:24.72, base_dag_cost:786983, dag_cost:84902, improvement_percentage:89.21, avg_ops/path:1.05, mid_paths:0, paths:81294, midonlys:1722, dag_verified:True, save_dag_time:0.3, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-3.5/dag.pkl, 
+ xoff-2:
+ April 12 04:02:24, params:0.9-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:29.15, base_dag_cost:1245781, dag_cost:124563, improvement_percentage:90.0, avg_ops/path:1.03, mid_paths:0, paths:121156, midonlys:1520, dag_verified:True, save_dag_time:0.51, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-4.0/dag.pkl, 
+ xoff-2:
+ April 12 04:04:35, params:0.9-4.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:30.27, base_dag_cost:1522739, dag_cost:147494, improvement_percentage:90.31, avg_ops/path:1.02, mid_paths:0, paths:144319, midonlys:1389, dag_verified:True, save_dag_time:0.61, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-4.5/dag.pkl, 
+ xoff-2:
+ April 12 04:07:00, params:0.9-5.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:33.69, base_dag_cost:1934351, dag_cost:179705, improvement_percentage:90.71, avg_ops/path:1.02, mid_paths:0, paths:176794, midonlys:1282, dag_verified:True, save_dag_time:0.87, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-5.0/dag.pkl, 
+ xoff-2:
+ April 12 04:09:35, params:0.9-6.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:35.12, base_dag_cost:2379172, dag_cost:213228, improvement_percentage:91.04, avg_ops/path:1.01, mid_paths:0, paths:210776, midonlys:1055, dag_verified:True, save_dag_time:0.99, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-6.0/dag.pkl, 
+ xoff-2:
+ April 12 04:12:28, params:0.9-8.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:38.16, base_dag_cost:2898115, dag_cost:251780, improvement_percentage:91.31, avg_ops/path:1.01, mid_paths:0, paths:249885, midonlys:833, dag_verified:True, save_dag_time:1.14, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-8.0/dag.pkl, 
+ xoff-2:
+ April 12 04:15:20, params:0.9-10.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:40.75, base_dag_cost:3062686, dag_cost:263135, improvement_percentage:91.41, avg_ops/path:1.01, mid_paths:0, paths:261374, midonlys:789, dag_verified:True, save_dag_time:1.19, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-10.0/dag.pkl, 
+ xoff-2:
+ April 12 04:18:17, params:0.9-15.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:40.88, base_dag_cost:3231476, dag_cost:276867, improvement_percentage:91.43, avg_ops/path:1.01, mid_paths:0, paths:275250, midonlys:708, dag_verified:True, save_dag_time:1.4, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-15.0/dag.pkl, 
+ xoff-2:
+ April 12 04:21:18, params:0.9-23.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:41.74, base_dag_cost:3308118, dag_cost:281674, improvement_percentage:91.49, avg_ops/path:1.01, mid_paths:0, paths:280076, midonlys:697, dag_verified:True, save_dag_time:1.29, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.9-23.0/dag.pkl, 
+ xoff-2:
+ April 12 04:23:53, params:0.95-3.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:10.42, base_dag_cost:955985, dag_cost:106702, improvement_percentage:88.84, avg_ops/path:1.0, mid_paths:0, paths:106738, midonlys:0, dag_verified:True, save_dag_time:0.43, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-3.0/dag.pkl, 
+ xoff-2:
+ April 12 04:26:57, params:0.95-3.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:16.39, base_dag_cost:1632695, dag_cost:166762, improvement_percentage:89.79, avg_ops/path:1.0, mid_paths:0, paths:166798, midonlys:0, dag_verified:True, save_dag_time:0.66, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-3.5/dag.pkl, 
+ xoff-2:
+ April 12 04:30:43, params:0.95-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:22.44, base_dag_cost:2527451, dag_cost:244218, improvement_percentage:90.34, avg_ops/path:1.0, mid_paths:0, paths:244292, midonlys:0, dag_verified:True, save_dag_time:1.11, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-4.0/dag.pkl, 
+ xoff-2:
+ April 12 04:34:55, params:0.95-4.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:26.23, base_dag_cost:3071511, dag_cost:289464, improvement_percentage:90.58, avg_ops/path:1.0, mid_paths:0, paths:289538, midonlys:0, dag_verified:True, save_dag_time:1.29, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-4.5/dag.pkl, 
+ xoff-2:
+ April 12 04:39:57, params:0.95-5.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:34.15, base_dag_cost:3844477, dag_cost:350488, improvement_percentage:90.88, avg_ops/path:1.0, mid_paths:0, paths:350562, midonlys:0, dag_verified:True, save_dag_time:1.77, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-5.0/dag.pkl, 
+ xoff-2:
+ April 12 04:45:18, params:0.95-6.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:40.9, base_dag_cost:4715179, dag_cost:417138, improvement_percentage:91.15, avg_ops/path:1.0, mid_paths:0, paths:417212, midonlys:0, dag_verified:True, save_dag_time:2.21, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-6.0/dag.pkl, 
+ xoff-2:
+ April 12 04:51:05, params:0.95-8.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:48.13, base_dag_cost:5701787, dag_cost:491426, improvement_percentage:91.38, avg_ops/path:1.0, mid_paths:0, paths:491500, midonlys:0, dag_verified:True, save_dag_time:2.56, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-8.0/dag.pkl, 
+ xoff-2:
+ April 12 04:57:02, params:0.95-10.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:50.04, base_dag_cost:6019409, dag_cost:513558, improvement_percentage:91.47, avg_ops/path:1.0, mid_paths:0, paths:513632, midonlys:0, dag_verified:True, save_dag_time:2.82, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-10.0/dag.pkl, 
+ xoff-2:
+ April 12 05:03:22, params:0.95-15.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:52.96, base_dag_cost:6351469, dag_cost:540876, improvement_percentage:91.48, avg_ops/path:1.0, mid_paths:0, paths:540950, midonlys:0, dag_verified:True, save_dag_time:2.62, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-15.0/dag.pkl, 
+ xoff-2:
+ April 12 05:09:35, params:0.95-23.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:52.41, base_dag_cost:6500435, dag_cost:550274, improvement_percentage:91.53, avg_ops/path:1.0, mid_paths:0, paths:550348, midonlys:0, dag_verified:True, save_dag_time:2.66, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.95-23.0/dag.pkl, 
+ xoff-2:
+ April 12 05:12:33, params:1.0-3.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:10.21, base_dag_cost:955985, dag_cost:106702, improvement_percentage:88.84, avg_ops/path:1.0, mid_paths:0, paths:106738, midonlys:0, dag_verified:True, save_dag_time:0.42, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-3.0/dag.pkl, 
+ xoff-2:
+ April 12 05:15:35, params:1.0-3.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:16.72, base_dag_cost:1632695, dag_cost:166762, improvement_percentage:89.79, avg_ops/path:1.0, mid_paths:0, paths:166798, midonlys:0, dag_verified:True, save_dag_time:0.69, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-3.5/dag.pkl, 
+ xoff-2:
+ April 12 05:19:23, params:1.0-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:22.27, base_dag_cost:2527451, dag_cost:244218, improvement_percentage:90.34, avg_ops/path:1.0, mid_paths:0, paths:244292, midonlys:0, dag_verified:True, save_dag_time:1.1, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, 
+ xoff-2:
+ April 12 05:23:41, params:1.0-4.5, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:26.58, base_dag_cost:3071511, dag_cost:289464, improvement_percentage:90.58, avg_ops/path:1.0, mid_paths:0, paths:289538, midonlys:0, dag_verified:True, save_dag_time:1.33, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.5/dag.pkl, 
+ xoff-2:
+ April 12 05:28:26, params:1.0-5.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:33.32, base_dag_cost:3844477, dag_cost:350488, improvement_percentage:90.88, avg_ops/path:1.0, mid_paths:0, paths:350562, midonlys:0, dag_verified:True, save_dag_time:1.75, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-5.0/dag.pkl, 
+ xoff-2:
+ April 12 05:33:42, params:1.0-6.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:39.97, base_dag_cost:4715179, dag_cost:417138, improvement_percentage:91.15, avg_ops/path:1.0, mid_paths:0, paths:417212, midonlys:0, dag_verified:True, save_dag_time:2.12, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-6.0/dag.pkl, 
+ xoff-2:
+ April 12 05:39:30, params:1.0-8.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:47.32, base_dag_cost:5701787, dag_cost:491426, improvement_percentage:91.38, avg_ops/path:1.0, mid_paths:0, paths:491500, midonlys:0, dag_verified:True, save_dag_time:2.63, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-8.0/dag.pkl, 
+ xoff-2:
+ April 12 05:45:32, params:1.0-10.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:50.66, base_dag_cost:6019409, dag_cost:513558, improvement_percentage:91.47, avg_ops/path:1.0, mid_paths:0, paths:513632, midonlys:0, dag_verified:True, save_dag_time:2.54, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-10.0/dag.pkl, 
+ xoff-2:
+ April 12 05:51:42, params:1.0-15.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:52.43, base_dag_cost:6351469, dag_cost:540876, improvement_percentage:91.48, avg_ops/path:1.0, mid_paths:0, paths:540950, midonlys:0, dag_verified:True, save_dag_time:2.76, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-15.0/dag.pkl, 
+ xoff-2:
+ April 12 05:57:55, params:1.0-23.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:53.84, base_dag_cost:6500435, dag_cost:550274, improvement_percentage:91.53, avg_ops/path:1.0, mid_paths:0, paths:550348, midonlys:0, dag_verified:True, save_dag_time:2.6, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-23.0/dag.pkl, 
+ xoff-2:
+ May 15 02:03:15, params:0.85-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:105.15, base_dag_cost:678591, dag_cost:75217, improvement_percentage:88.92, avg_ops/path:1.13, mid_paths:0, paths:66567, midonlys:5160, dag_verified:True, save_dag_time:0.28, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, 
+ xoff-2:
+ May 15 02:18:17, params:0.85-4.0, make_method:make_buttom_up/acception_method:AM2_disjoint_remove_common_child, make_time:890.29, base_dag_cost:678591, dag_cost:344526, improvement_percentage:49.23, avg_ops/path:5.18, mid_paths:0, paths:66567, midonlys:23, dag_verified:True, save_dag_time:0.62, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, 
+ xoff-2:
+ May 15 02:33:27, params:0.85-4.0, make_method:make_buttom_up/acception_method:AM2_disjoint_remove_common_child, make_time:894.59, base_dag_cost:678591, dag_cost:344526, improvement_percentage:49.23, avg_ops/path:5.18, mid_paths:0, paths:66567, midonlys:23, dag_verified:True, save_dag_time:0.73, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, 
+ xoff-2:
+ xoff-2:
+ make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child -> base_make start...
+ make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child -> base_make done in 855.62 secs
+   make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child WHILE! start ----------------
+     iteration 1::::: 
+ gc.collect() : 
+  0 :)))
+     iteration 2::::: 
+ gc.collect() : 
+  978 :)))
+     iteration 3::::: 
+ gc.collect() : 
+  399 :)))
+ May 15 02:57:46, params:0.85-4.0, make_method:make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child, make_time:1440.15, base_dag_cost:678591, dag_cost:80208, improvement_percentage:88.18, avg_ops/path:1.21, mid_paths:0, paths:66567, midonlys:11971, dag_verified:True, save_dag_time:0.32, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, 
+ xoff-2:
+ make_post_joiner/base_make:make_00 -> base_make start...
+ make_post_joiner/base_make:make_00 -> base_make done in 2.16 secs
+   make_post_joiner/base_make:make_00 WHILE! start ----------------
+     iteration 1::::: 
+ gc.collect() : 
+  0 :)))
+     iteration 2::::: 
+ gc.collect() : 
+  861 :)))
+     iteration 3::::: 
+ gc.collect() : 
+  717 :)))
+ May 15 03:08:12, params:0.85-4.0, make_method:make_post_joiner/base_make:make_00, make_time:611.3, base_dag_cost:678591, dag_cost:80921, improvement_percentage:88.08, avg_ops/path:1.22, mid_paths:0, paths:66567, midonlys:12416, dag_verified:True, save_dag_time:0.36, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, 
+ xoff-2:
+ May 15 03:17:21, params:0.85-4.0, make_method:make_post_joiner_faster/base_make:make_00, make_time:537.48, base_dag_cost:678591, dag_cost:80922, improvement_percentage:88.07, avg_ops/path:1.22, mid_paths:0, paths:66567, midonlys:12416, dag_verified:True, save_dag_time:0.38, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/0.85-4.0/dag.pkl, 
+ xoff-2:
+ May 15 03:18:02, params:1.0-4.0, make_method:make_post_joiner_faster/base_make:make_partial_sticks, make_time:21.15, base_dag_cost:2527451, dag_cost:244218, improvement_percentage:90.34, avg_ops/path:1.0, mid_paths:0, paths:244292, midonlys:0, dag_verified:True, save_dag_time:1.38, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, 
+ xoff-2:
+ May 15 09:55:00, params:1.0-4.0, make_method:make_buttom_up/acception_method:AM2_disjoint_remove_common_child, make_time:23781.65, base_dag_cost:2527451, dag_cost:1273730, improvement_percentage:49.6, avg_ops/path:5.22, mid_paths:0, paths:244292, midonlys:0, dag_verified:True, save_dag_time:2.97, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, 
+ xoff-2:
+ May 15 04:53:58, params:1.0-4.0, make_method:make_buttom_up/acception_method:AM2_disjoint_remove_common_child, make_time:25098.0, base_dag_cost:2527451, dag_cost:1273730, improvement_percentage:49.6, avg_ops/path:5.22, mid_paths:0, paths:244292, midonlys:0, dag_verified:True, save_dag_time:2.45, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, 
+ xoff-2:
+ xoff-2:
+ make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child -> base_make start...
+ make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child -> base_make done in 24930.96 secs
+   make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child WHILE! start ----------------
+     iteration 1::::: 
+ gc.collect() : 
+  0 :)))
+     iteration 2::::: 
+ gc.collect() : 
+  870 :)))
+     iteration 3::::: 
+ gc.collect() : 
+  1140 :)))
+ May 16 12:53:23, params:1.0-4.0, make_method:make_post_joiner/base_make:make_buttom_up-acception_method:AM1_disjoint_OR_no_common_child, make_time:28715.45, base_dag_cost:2527451, dag_cost:252335, improvement_percentage:90.02, avg_ops/path:1.03, mid_paths:0, paths:244292, midonlys:7902, dag_verified:True, save_dag_time:1.25, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, 
+ xoff-2:
+ make_post_joiner/base_make:make_00 -> base_make start...
+ make_post_joiner/base_make:make_00 -> base_make done in 9.72 secs
+   make_post_joiner/base_make:make_00 WHILE! start ----------------
+     iteration 1::::: 
+ gc.collect() : 
+  0 :)))
+     iteration 2::::: 
+ gc.collect() : 
+  504 :)))
+     iteration 3::::: 
+ gc.collect() : 
+  453 :)))
+ May 16 02:20:00, params:1.0-4.0, make_method:make_post_joiner/base_make:make_00, make_time:5165.14, base_dag_cost:2527451, dag_cost:252314, improvement_percentage:90.02, avg_ops/path:1.03, mid_paths:0, paths:244292, midonlys:7899, dag_verified:True, save_dag_time:1.3, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, 
+ xoff-2:
+ May 16 03:23:52, params:1.0-4.0, make_method:make_post_joiner_faster/base_make:make_00, make_time:3801.82, base_dag_cost:2527451, dag_cost:252314, improvement_percentage:90.02, avg_ops/path:1.03, mid_paths:0, paths:244292, midonlys:7899, dag_verified:True, save_dag_time:1.24, Dag_file:/root/configs/geant/config1/data/offline/xoff_2/1.0-4.0/dag.pkl, 

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ~/muzixing/ryu/
+sudo python2.7 setup.py install
+~/muzixing/ryu/bin/ryu-manager --observe-links ryu/app/network_awareness/shortest_forwarding.py

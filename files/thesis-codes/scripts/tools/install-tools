@@ -1,0 +1,86 @@
+#!/bin/bash
+
+THESIS_BKUP="/usr/local/share/thesis/backup"
+THESIS_TMP="/tmp/thesis"
+function check_root_user()
+{
+    if [ "$USER" != "root" ]
+    then
+            echo "Please run as root"
+            exit 1
+    fi
+}
+
+# Usage: _check_param1 $1  ${FUNCNAME[0]}
+function _check_param1(){
+    if [ "$1" == "" ]
+    then
+        echo "Error: $2 -> ${FUNCNAME[0]}: no parameter specified!"
+        exit 1
+    fi
+}
+
+# Usage: par_value=$(check_param_not_empty PARAM_VALUE PARAM_NAME)
+function check_param_not_empty(){
+    if [ "$1" == "" ]
+    then
+        echo "No value provided for: $2"
+        exit 1
+    else
+        echo $1
+    fi
+}
+
+function check_file_exist(){
+    _check_param1 $1 ${FUNCNAME[0]}
+    if [ -f "$1" ]
+    then 
+        echo "    $1: exist"
+    else
+        echo "Error: check_file_exist: File not found: $1"
+        echo "Exiting ..."; 
+        exit 1
+    fi
+}
+
+function check_pkg_exist(){
+    _check_param1 $1 ${FUNCNAME[0]}
+    installed=$(dpkg-query --status $1 | grep "Status: install ok installed" | wc -l)
+    if [ "$installed" == "1" ]
+    then
+        echo "Check package: $1 -> installed"
+        return 0
+    else
+        echo "Warrning: package $1 is NOT-installed"
+        NotInstalledPkgs="$NotInstalledPkgs
+$1"
+        return 1
+    fi
+}
+
+function check_required_packages(){
+    for pkg in $REQUIRED
+    do
+        check_pkg_exist $pkg
+    done
+    if [ -z $NotInstalledPkgs ]
+    then
+        return 0
+    else
+        echo
+        echo "Installation FAILED"
+        echo "First, install the following packages, then, try again!"
+        echo
+        for pkg in $NotInstalledPkgs 
+        do
+            echo "    sudo apt install $pkg"
+        done
+        return 1
+    fi
+}
+
+function rm_from_bashrc(){
+    _check_param1 $1 ${FUNCNAME[0]}
+    cat "$HOME/.bashrc" | grep -v "$1" > $THESIS_TMP/tmp
+    mv $THESIS_TMP/tmp  "$HOME/.bashrc"
+}

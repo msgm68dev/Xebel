@@ -1,0 +1,2 @@
+script = '/home/mostafa/thesis-codes/code/1.all_paths/allpaths.py'
+exec(open(script).read())

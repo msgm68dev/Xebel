@@ -1,0 +1,25 @@
+version: '3'
+services:
+  Thesis:
+    container_name: "thesis"
+    hostname: "thesis"
+    image: thesis:0.2
+    build: .
+    tty: true
+    network_mode: "bridge"
+    privileged: true
+    environment:
+     - DISPLAY
+    volumes:
+     - ${PWD}/files/thesis-ryu:/root/thesis-ryu
+     - ${PWD}/files/thesis-codes:/root/thesis-codes
+     - ${PWD}/files/configs/:/root/configs
+     - ${PWD}/files/entrypoint.sh:/root/entrypoint.sh
+     - ${PWD}/data/log/myrouting/:/tmp/log/myrouting/
+     - ${PWD}/data/mon:/dev/shm/mon/
+     - ${PWD}/data/rt:/dev/shm/rt/
+     - ${PWD}/data/xebel/offline:/root/data/xebel/offline
+     - /tmp/.X11-unix:/tmp/.X11-unix
+     - /lib/modules:/lib/modules
+
+    entrypoint: "/root/entrypoint.sh"

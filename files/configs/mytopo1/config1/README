@@ -1,0 +1,12 @@
+#1
+xebel-offline --stage 1
+
+#2
+xebel-offline --stage 2
+xebel-offline --stage 2 --config-file ./make00_xebel-offline.conf
+
+#3
+#xebel-offline --stage 2.1 
+#xebel-offline --stage 2.1 --config-file ./make00_xebel-offline.conf 
+
+

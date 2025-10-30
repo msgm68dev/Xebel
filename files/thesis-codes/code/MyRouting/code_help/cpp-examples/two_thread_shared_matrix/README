@@ -1,0 +1,17 @@
+// You are asking for a C++ code that uses parallel threads, 2D array of objects, and raw socket. This is a complex task that requires some knowledge of C++ features and libraries. I will try to give you a possible solution, but you may need to modify it according to your specific requirements and preferences.
+
+// First, let's define the class Mcell that represents a cell in the matrix. It has an integer member Mcval that stores the value of the cell.
+
+// Mcell.h
+
+// Next, let's define the class Matrix that represents a 2D array of Mcell objects. It has a vector of vectors of Mcell objects that stores the data, and a pair of integers that stores the size of the matrix. It also has some methods to access and modify the data.
+
+// Matrix.h
+
+// Now, let's define the functions that will be executed by the threads xerop and xeror. The function xerop takes a pointer to a Matrix object and an integer S as parameters. It fills the matrix with random integers, sleeps for S seconds, and repeats this process indefinitely.
+
+// xerop.cpp
+
+// xeror.cpp
+
+// Finally, let's write a simple application that sends requests to xeror via raw socket. This application can be in Python or C++, but for simplicity, we will use Python. The application takes four arguments: the host, the port, the row, and the column of the cell to query. It creates a raw socket, sends a request of the form "GET NUMBER x y" to the host and port, and receives a response of the form "GIVE x y v". It prints the response on the standard output.
